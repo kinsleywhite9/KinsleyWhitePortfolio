@@ -1,0 +1,13 @@
+PROJECT DESCRIPTION
+Recent advances in both Artificial Intelligent (AI) and Internet of Things (IoT) make it possible to implement surveillance systems that can detect suspicious objects 
+in an automatic manner. In this project, a student will use Raspberry Pi (RPi) along with portable Arducam IoTai to implement a surveillance system. The designed system 
+utilizes RPi as a computing server, which receives the captured image from Arducam IoTai wirelessly and executes object detection. The student will use an object detector to 
+detect objects in both images and video streams using Deep Learning, OpenCV, and Python.
+
+REQUIRED HARDWARE COMPONENTS
+-	Raspberry Pi
+-	Arducam IoTai
+-	mini USB to USB cable
+-	sd card
+
+
